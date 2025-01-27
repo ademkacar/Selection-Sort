@@ -1,0 +1,3 @@
+﻿  selectionsort.cpp
+C:\Users\kacar\OneDrive\Masaüstü\c++\SORT\selectionsort\selectionsort\selectionsort.cpp(13,9): warning C4101: 'enkucuk': yerel değişken başvurusu kaldırıldı
+  selectionsort.vcxproj -> C:\Users\kacar\OneDrive\Masaüstü\c++\SORT\selectionsort\x64\Debug\selectionsort.exe
